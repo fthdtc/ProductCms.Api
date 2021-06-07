@@ -1,0 +1,3 @@
+D:\Dev\doc\my_project\documents\logiwa\repository\ProductCms.Base\obj\Release\netcoreapp2.1\ProductCms.Base.csproj.CoreCompileInputs.cache
+D:\Dev\doc\my_project\documents\logiwa\repository\ProductCms.Base\obj\Release\netcoreapp2.1\ProductCms.Base.AssemblyInfoInputs.cache
+D:\Dev\doc\my_project\documents\logiwa\repository\ProductCms.Base\obj\Release\netcoreapp2.1\ProductCms.Base.AssemblyInfo.cs
